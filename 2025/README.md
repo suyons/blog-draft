@@ -1,6 +1,6 @@
 # 2025
 
-[250123 AWS EC2로 배포하면서 도메인과 HTTPS 적용하기](/2025/250123%20AWS%20EC2로%20배포하면서%20도메인과%20HTTPS%20적용하기/README.md)
+[250123 AWS EC2로 배포하면서 도메인과 HTTPS 적용하기](/2025/250123-aws-ec2-deploy-domain-https/README.md)
 
 금융권 SI에서 살아남기 - 비상주 폐쇄망 작업 환경 직접 구축하기
 
@@ -23,3 +23,5 @@
 금융권 SI에서 살아남기 - Apache JMeter를 이용한 부하 테스트
 
 금융권 SI에서 살아남기 - OutOfMemoryError는 힙메모리 늘린다고 해결되지 않는다
+
+[250917 Ubuntu에서 Oracle Database 19c 설치하기 (Docker)](/2025/250917-ubuntu-oracle-database-19c-docker/README.md)
